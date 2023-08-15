@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jacobjohnson10
-- 👀 I’m interested in python and java
-- 🌱 I’m currently learning golang
 
 
 <!---
